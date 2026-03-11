@@ -1,0 +1,22 @@
+{
+  "name": "devaudit",
+  "version": "1.0.0",
+  "description": "Lightweight open-source dependency security scanner",
+  "main": "scanner.js",
+  "bin": {
+    "devaudit": "./cli.js"
+  },
+  "scripts": {
+    "start": "node scanner.js"
+  },
+  "keywords": [
+    "security",
+    "dependencies",
+    "scanner",
+    "open-source",
+    "developer-tools"
+  ],
+  "author": "Ajmal Raza",
+  "license": "MIT",
+  "dependencies": {}
+}
